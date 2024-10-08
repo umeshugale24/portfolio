@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Car Rental Service",
+        "imageSrc": "projects/project.png",
+        "description":"I made this project for learning Node.JS",
+        "skills":["React","Node","MongoDB"],
+        "demo":"",
+        "source":""
+    },
+    {
+        "title": "Secure Text Communication Using Cryptography",
+        "imageSrc": "projects/project.png",
+        "description":"To understand the concept of Cryptography, encryption and RSA algorithm I worked on this project",
+        "skills":["Python","RSA", "Cryptography"],
+        "demo":"",
+        "source":""
+    }
+]
